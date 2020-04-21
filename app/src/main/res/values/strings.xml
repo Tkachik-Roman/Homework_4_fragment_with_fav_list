@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework_4_fragment</string>
+    <string name="titleMovie">Название фильма</string>
+    <string name="action_settings">Settings</string>
+    <string name="favorites">Favorites</string>
+    <string name="hello_blank_fragment">Favorite fragment</string>
+</resources>
